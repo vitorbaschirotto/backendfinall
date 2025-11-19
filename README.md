@@ -576,11 +576,11 @@ Content-Type: application/json
 
 ## 📄 Licença
 
-Este projeto é um exemplo para demonstração de conceitos Spring Boot.
+Este projeto é um exemplo educacional para demonstração de conceitos Spring Boot.
 
 ## 👨‍💻 Autor
 
-Desenvolvido como projeto a fim de estudos em Spring boot
+Desenvolvido como projeto de aprendizado em Spring Boot.
 
 ---
 
